@@ -1,5 +1,3 @@
-Here's the **installation guide and usage instructions** for your **Finance Hub** GitHub repository:  
-
 ---
 
 # **Finance Hub** 💰📊  
