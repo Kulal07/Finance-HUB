@@ -1,5 +1,3 @@
----
-
 # **Finance Hub** 💰📊  
 
 **Finance Hub** is a smart and intuitive personal finance management application designed to help users **track, manage, and grow their wealth efficiently**. Built with **Next.js, MongoDB, and Node.js**, this platform provides a seamless experience for managing income, expenses, and financial insights.  
